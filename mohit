@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tiwari Tour & Travels - Jabalpur</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
+    header { background: #1a73e8; color: white; padding: 20px; text-align: center; }
+    h1 { margin: 0; font-size: 32px; }
+    .tagline { font-size: 18px; margin-top: 5px; }
+    .section { padding: 40px 20px; text-align: center; }
+    .services { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
+    .card { background: white; padding: 20px; width: 280px; border-radius: 12px; box-shadow: 0 3px 8px rgba(0,0,0,0.1); }
+    footer { background: #222; color: #ddd; text-align: center; padding: 20px; margin-top: 40px; }
+    a.button { display: inline-block; padding: 12px 20px; background: #1a73e8; color: white; border-radius: 8px; text-decoration: none; margin-top: 15px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tiwari Tour & Travels</h1>
+    <div class="tagline">Your Travel Partner From Jabalpur to Anywhere</div>
+  </header>
+
+  <section class="section">
+    <h2>Our Services</h2>
+    <div class="services">
+      <div class="card">
+        <h3>Local Rides</h3>
+        <p>City travel with comfortable and clean vehicles.</p>
+      </div>
+      <div class="card">
+        <h3>Outstation Trips</h3>
+        <p>Travel to nearby cities safely & affordably.</p>
+      </div>
+      <div class="card">
+        <h3>Airport Pickup & Drop</h3>
+        <p>On‑time service for Jabalpur Airport.</p>
+      </div>
+      <div class="card">
+        <h3>Wedding & Corporate Travel</h3>
+        <p>Premium cars for special events and VIP travel.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="background:#fff;">
+    <h2>Contact Us</h2>
+    <p><strong>Phone:</strong> 8667570860</p>
+    <a class="button" href="https://wa.me/918667570860">Book on WhatsApp</a>
+  </section>
+
+  <footer>
+    © 2025 Tiwari Tour & Travels — Jabalpur
+  </footer>
+</body>
+</html>
